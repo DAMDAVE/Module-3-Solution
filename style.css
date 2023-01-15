@@ -1,0 +1,47 @@
+p{  
+	color: white;
+	padding: 15px;
+}
+section> div{
+	background-color: grey;
+}
+section> div{
+	margin: 5px;
+}
+h2{
+	padding-top: 20px;
+	height: 80px
+}
+h3{
+	padding-top: 20px;
+}
+a{
+	text-decoration: none;
+	color: black;
+}
+a:hover{
+	color: red;
+}
+.navbar-brand{
+	font-size: 200%;
+	margin-left: 5px;
+}
+.navbar-nav{
+	text-align: center;
+	font-size: 150%;
+}
+hr{ 
+	color: black;
+	opacity: 2;
+}
+.navbar-collapse{
+	border: solid 2px;
+	width: 100%;
+	background-color: white;
+}
+.xo{
+	padding: 1px;
+}
+.button{
+	margin-right: 10px;
+}
